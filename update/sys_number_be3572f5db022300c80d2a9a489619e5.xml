@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_286741_groupid_configuration">x_286741_groupid_configuration</category>
+        <maximum_digits>3</maximum_digits>
+        <number>0</number>
+        <prefix>C</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 04:22:54</sys_created_on>
+        <sys_id>be3572f5db022300c80d2a9a489619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>C</sys_name>
+        <sys_package display_value="Imanami GroupID" source="x_286741_groupid">78e372b5db022300c80d2a9a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Imanami GroupID">78e372b5db022300c80d2a9a4896191b</sys_scope>
+        <sys_update_name>sys_number_be3572f5db022300c80d2a9a489619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 04:22:54</sys_updated_on>
+    </sys_number>
+</record_update>

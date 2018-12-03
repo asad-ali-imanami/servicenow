@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_286741_groupid_configuration</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 04:22:54</sys_created_on>
+        <sys_id>f23572f5db022300c80d2a9a489619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_286741_groupid_configuration</sys_name>
+        <sys_package display_value="Imanami GroupID" source="x_286741_groupid">78e372b5db022300c80d2a9a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Imanami GroupID">78e372b5db022300c80d2a9a4896191b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_f23572f5db022300c80d2a9a489619dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 04:22:54</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

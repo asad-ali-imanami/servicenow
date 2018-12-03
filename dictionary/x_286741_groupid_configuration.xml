@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Configuration" max_length="40" name="x_286741_groupid_configuration" type="collection">
+        <element label="Application ID" max_length="40" name="application_id" type="string"/>
+        <element label="Data Service URL" max_length="40" name="data_service_url" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Security Service URL" max_length="40" name="security_service_url" type="string"/>
+    </element>
+</database>
